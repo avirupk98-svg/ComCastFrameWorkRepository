@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-09T13:06:11 IST" name="Default suite" finished-at="2025-08-09T13:06:20 IST" duration-ms="9331">
+    <groups>
+    </groups>
+    <test started-at="2025-08-09T13:06:11 IST" name="Default test" finished-at="2025-08-09T13:06:20 IST" duration-ms="9331">
+      <class name="com.Assignments.CarDekho">
+        <test-method signature="CarDekhoCarPrintTest()[pri:0, instance:com.Assignments.CarDekho@2002fc1d]" started-at="2025-08-09T13:06:11 IST" name="CarDekhoCarPrintTest" finished-at="2025-08-09T13:06:20 IST" duration-ms="9278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarDekhoCarPrintTest -->
+      </class> <!-- com.Assignments.CarDekho -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

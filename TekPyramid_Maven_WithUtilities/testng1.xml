@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.comcast.crm.orgTest_WithAnnotationsAndBaseClass.CreateOrganizationWithIndustry_TC02"/>
+      <class name="com.comcast.crm.contactTest_WithAnnotationsAndBaseClass.CreateContactTest_TC4"/>
+      <class name="com.comcast.crm.orgTest_WithAnnotationsAndBaseClass.CreateOrganizationTest_TC1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
