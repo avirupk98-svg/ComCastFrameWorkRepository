@@ -23,5 +23,5 @@ public class Test1 extends BaseClass{
 //	    String rating = ratings.size() > i ? ratings.get(i).getText() : "N/A";
 //
 //	    System.out.println("Name: " + name + " | Price: " + price + " | Rating: " + rating);
-	}
+	
 }
